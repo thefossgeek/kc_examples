@@ -9,7 +9,7 @@ a_args = {
           "username":"admin",
           "password":"admin",
           "tenant_name":"admin",
-          "auth_url":"http://10.209.224.53:5000/v2.0"
+          "auth_url":"http://<controller_ip>:5000/v2.0"
          }
 
 t_args = {

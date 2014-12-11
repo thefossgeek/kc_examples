@@ -7,7 +7,7 @@ import six
 
 bootstrap_mode = {
           "token":"token",
-          "endpoint":"http://10.209.224.53:35357/v2.0",
+          "endpoint":"http://<controller_ip>:35357/v2.0",
          }
 
 # Here is the list of users associated with admin tenant and admin role.
